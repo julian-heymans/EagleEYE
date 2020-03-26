@@ -1,0 +1,63 @@
+body{
+    background-color: lightsteelblue;
+}
+
+
+button{
+  background-color: #7FDFC3;
+
+}
+
+mark{
+  background-color: #7FDFC3;
+}
+
+h1{
+
+   text-shadow: 2px 2px 0px black;
+
+   font-family: 'Audiowide';
+
+
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: #7FDFC3;
+}
+ #newEmp{
+   position: absolute;
+   left: 35%;
+   padding: 0px;
+
+}
+#new_DB_AND_Admin{
+  position: absolute;
+  right: 30%;
+  padding: 0px;
+
+}
+#back_To_Login{
+  position: absolute;
+  top: 3%;
+  right: 1%;
+  padding: 0px;
+
+}
+
+#logo{
+width: 182px;
+height: 135px;
+
+position: absolute;
+left: 10px;
+padding: 0px;
+border: 2px solid black;
+}
+p{
+ font-family: OCR A Std, monospace;
+ padding-top: 2%;
+  text-align: center;
+  color: black;
+}

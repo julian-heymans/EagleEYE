@@ -1,0 +1,88 @@
+#logo{
+width: 182px;
+height: 135px;
+
+position: absolute;
+left: 10px;
+padding: 0px;
+border: 2px solid black;
+}
+
+#steps_imgs{
+  width: 1000px;
+  height: 600px;
+  border: 2px solid black;
+  float:left;
+
+}
+ #option2{
+   clear: left;
+ }
+
+#steps{
+  clear:left;
+}
+
+
+
+body{
+  background-color: lightsteelblue;
+}
+
+button{
+  background-color: #7FDFC3;
+
+}
+.active {
+  background-color: #7FDFC3;
+}
+
+h1{
+
+   text-shadow: 2px 2px 0px black;
+
+   font-family: 'Audiowide';
+
+
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+    color: #7FDFC3;
+}
+#back_to_login{
+  position: absolute;
+  right: 1%;
+  top:3%;
+  padding: 0px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  background-color: #333;
+   
+}
+
+li {
+  float: left;
+  border-right: 1px solid #bbb;
+}
+
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: lightsteelblue;
+}
+
+
+button{
+  background-color: #7FDFC3;
+
+}
+
+h1{
+
+   text-shadow: 2px 2px 0px black;
+
+   font-family: 'Audiowide';
+
+
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: #7FDFC3;
+}
+
+form{
+  text-align: center;
+}
